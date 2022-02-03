@@ -1,0 +1,26 @@
+
+/*.container{
+    display: grid;
+    grid-template-columns: repeat(3);
+    grid-template-rows: repeat(3);
+    grid-template-columns: 30% 40% 30%;
+}
+
+.center{
+    grid-column: 2;
+    grid-row: 3;
+    text-align: center;
+}
+
+.left{
+    grid-column: 1;
+    grid-row: 3;
+    border:solid 2px;
+}
+
+.right{
+    grid-column: 3;
+    grid-row: 3;
+
+    border:solid 2px;
+}*/
